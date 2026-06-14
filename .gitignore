@@ -1,0 +1,7 @@
+*.csv
+__pycache__/
+*.pyc
+node_modules/
+sa-temperature-dashboard/
+package.json
+package-lock.json

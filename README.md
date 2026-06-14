@@ -22,3 +22,6 @@ python pipeline.py
 
 ## Data Source
 FAO Environment Temperature Change Dataset via Kaggle
+
+## Frontend Dashboard
+👉 https://github.com/mbalinonhlanhla684/sa-temperature-dashboard
