@@ -5,3 +5,4 @@ node_modules/
 sa-temperature-dashboard/
 package.json
 package-lock.json
+.env
